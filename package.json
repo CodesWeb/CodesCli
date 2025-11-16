@@ -1,0 +1,38 @@
+{
+  "name": "codescli",
+  "version": "1.0.0",
+  "description": "A multi-provider AI programming assistant with event-driven architecture",
+  "main": "index.js",
+  "bin": {
+    "codes": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "ai",
+    "assistant",
+    "cli",
+    "anthropic",
+    "claude",
+    "gemini",
+    "coding",
+    "programming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodesWeb/CodesCli.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
