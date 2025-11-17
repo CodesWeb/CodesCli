@@ -1,10 +1,10 @@
 {
   "name": "@codesweb/codescli",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A multi-provider AI programming assistant with event-driven architecture",
   "main": "index.js",
   "bin": {
-    "codes": "./index.js"
+    "codes": "./codes.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -32,6 +32,7 @@
     "node": ">=18.0.0"
   },
   "files": [
+    "codes.js",
     "index.js",
     "README.md"
   ]
