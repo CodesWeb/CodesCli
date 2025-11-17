@@ -14,7 +14,7 @@ A multi-provider AI programming assistant with event-driven architecture.
 ## Installation
 
 ```bash
-npm install -g codescli
+npm install -g @codesweb/codescli
 ```
 
 ## Usage

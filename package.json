@@ -1,5 +1,5 @@
 {
-  "name": "codescli",
+  "name": "@codesweb/codescli",
   "version": "1.0.0",
   "description": "A multi-provider AI programming assistant with event-driven architecture",
   "main": "index.js",
